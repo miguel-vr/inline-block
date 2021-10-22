@@ -1,23 +1,22 @@
-a{
-	
-border-radius: 5px;
-text-decoration: none;
-padding: 5px 10px;
+a {
+    border-radius: 5px;
+    text-decoration: none;
+    padding: 5px 10px;
 }
 
-a:link{
-	color: #b9c941;
+a:link {
+    color: #b9c941;
 }
 
-a:visited{
-	color: #c0c0c0;
+a:visited {
+    color: #c0c0c0;
 }
 
-a:hover{
-	color: black;
-	background: #6d790f;
+a:hover {
+    color: black;
+    background: #6d790f;
 }
 
-a:active{
-	color: black;
+a:active {
+    color: black;
 }
